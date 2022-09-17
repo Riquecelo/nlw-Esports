@@ -5,6 +5,8 @@
 
 Projeto construído durante o evento Next Level Week(NLW) da Rocketseat.
 
+🔗[Visite a página aqui](https://riquecelo.github.io/nlw-eSports/)
+
 ![preview](https://github.com/Riquecelo/nlw-Esports/blob/main/assets/print.png)
 
 
