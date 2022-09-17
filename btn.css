@@ -1,0 +1,36 @@
+footer{
+    
+    display: flex;
+    justify-items: center;
+    align-items: center;
+    justify-content: center;
+}
+footer a{
+    padding-top: 2px;
+    margin: auto;
+    text-decoration: none;
+    width: 200px;
+    height: 30px;
+    background-color: #2a2634;
+    color: white;
+    text-align: center;
+    border-radius: 5px;
+    transition: transform .3s;
+    animation: fromBottomBTN .7s .8s backwards;
+}
+footer a:hover{
+    color: #9572fc ;
+    border: 1px solid #43e7ad;
+    transform: scale(1.1);
+}
+
+@keyframes fromBottomBTN {
+    from{
+        opacity: 0;
+        transform: translateY(30px);
+    }
+    to{
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
