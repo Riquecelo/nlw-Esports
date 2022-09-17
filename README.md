@@ -1,9 +1,9 @@
 <img alt="" src="https://img.shields.io/github/repo-size/Riquecelo/nlw-Esports" /> <img alt="GitHub Language Count" src="https://img.shields.io/github/languages/count/Riquecelo/nlw-Esports" /> <img alt="GitHub Top Language" src="https://img.shields.io/github/languages/top/Riquecelo/nlw-Esports" /> <img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/Riquecelo/nlw-Esports" />
 
-# nlw-eSports-2022
+# 🚀nlw-eSports-2022
 > Trilha Explorer
 
-Projeto construído durante o evento Next Level Week(NLW) da Rocketseat.
+🚀Projeto construído durante o evento Next Level Week(NLW) da Rocketseat.
 
 🔗[Visite a página aqui](https://riquecelo.github.io/nlw-eSports/)
 
