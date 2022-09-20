@@ -47,7 +47,7 @@ header div img{
 }
 
 main{
-    max-width: 580px;
+    max-width: 420px;
     width: 90%;
     margin: 32px auto;
     
@@ -144,4 +144,14 @@ main section:nth-child(3){
         opacity: 1;
         transform: translateY(0);
     }
+}
+
+/*-- Demo styles */
+section{
+    overflow: hidden;
+}
+
+.swiper-wrapper{
+    flex-wrap: nowrap;
+    gap: 0;
 }
